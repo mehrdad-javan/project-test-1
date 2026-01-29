@@ -2,12 +2,13 @@
 
 # Java SE — Project Test
 
-This repository contains **two alternative project tests**.
-You must **choose ONE project** and implement it according to the
-given requirements.
+This assignment offers **two project options**.  
+**One project should be selected** and implemented according to the given requirements.
 
-- **Individual Project:** By default, this is an individual project.
-- **Group Option:** If you wish to work in a **group of 2**, **inform your instructor** to confirm and get approval before starting.
+## 👤 Individual or Group Work
+
+- **Individual Project (default):** The project is completed individually.
+- **Group Option:** Work in a **group of 2** is possible with instructor approval before starting.
 
 The purpose of this project test is to evaluate your ability to:
 - Analyze a problem domain
@@ -19,7 +20,6 @@ The purpose of this project test is to evaluate your ability to:
 ---
 
 ## 📂 Available Project Tests (Choose ONE)
-
 
 ### 🏫 Classroom Rental App
 Design and implement a system for renting classrooms, managing bookings,
@@ -39,7 +39,7 @@ and managing attendance.
 
 ## 🧱 Project Setup Requirements
 
-You must:
+Required steps:
 
 1. Create a **new Git repository** for your project.
 2. Add this repository as your working project.
@@ -107,4 +107,4 @@ Be prepared to present your work in roughly 10–15 minutes:
 3.  **Code Walkthrough (5 mins):** Highlight a piece of code you are proud of (e.g., a complex query or logic) and explain *why* you built it that way.
 4.  **Q&A:** Be ready to discuss potential improvements or technical challenges you faced.
 
-> **Pro Tip:** Have your IDE and Database tool open and ready before the meeting!
+> **Pro Tip:** Keep the IDE and database tool ready before the meeting.
