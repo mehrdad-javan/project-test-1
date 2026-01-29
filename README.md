@@ -6,6 +6,9 @@ This repository contains **two alternative project tests**.
 You must **choose ONE project** and implement it according to the
 given requirements.
 
+- **Individual Project:** By default, this is an individual project.
+- **Group Option:** If you wish to work in a **group of 2**, **inform your instructor** to confirm and get approval before starting.
+
 The purpose of this project test is to evaluate your ability to:
 - Analyze a problem domain
 - Design a solution using Object-Oriented Programming
